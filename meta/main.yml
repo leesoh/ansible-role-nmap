@@ -1,0 +1,22 @@
+galaxy_info:
+  author: liam somerville
+  description: Installs the Nmap network scanner
+
+  license: BSD
+
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Debian
+    versions:
+    - all
+   - name: Ubuntu
+     versions:
+     - all
+
+  galaxy_tags:
+    - security
+    - pentest
+    - networking
+
+dependencies: []
